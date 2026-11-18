@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>input_password</name>
+   <tag></tag>
+   <elementGuidId>ae50e3b5-ec13-4be2-99ed-4b3f17cc4770</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//XCUIElementTypeTextField[@name='Password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeTextField[@name='Password']</value>
+      <webElementGuid>6e56f2ba-e25a-4f60-803a-5b92281b7054</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeTextField[@name='Password']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

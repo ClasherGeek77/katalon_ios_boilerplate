@@ -1,0 +1,15 @@
+.DS_Store
+Reports/
+bin/
+.cache
+.settings/
+.DS_Store
+Reports/
+bin/
+.cache
+.settings/
+Drivers/chromedriver
+Libs/Temp*.groovy
+apps/
+console.properties
+settings/internal/com.kms.katalon.core.mobile.ios.properties

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ios-003-empty-username-is-refused</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eea31130-29d1-433e-b5ed-0eac70e4d55c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>the local flutter app on the iPhoneSE14 simulator</description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>simulator build of the app under test, fetched by ./fetch_app.sh</description>
+      <initValue>com.kms.katalon.core.configuration.RunConfiguration.getProjectDir() + '/apps/Runner.app'</initValue>
+      <name>APP_PATH</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

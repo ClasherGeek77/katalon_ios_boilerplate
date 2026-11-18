@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>button_logout</name>
+   <tag></tag>
+   <elementGuidId>2c3cfce3-8639-4aad-b5fe-62723da53791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//XCUIElementTypeButton[@name='Logout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeButton[@name='Logout']</value>
+      <webElementGuid>cddd3b6a-fc2c-4082-8e81-64357d194c15</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeButton[@name='Logout']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>button_login</name>
+   <tag></tag>
+   <elementGuidId>b448e038-5461-438c-bde0-ec559770c7fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//XCUIElementTypeButton[@name='Login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeButton[@name='Login']</value>
+      <webElementGuid>eb21d1b1-8c82-4aa8-b943-bf57c61c5730</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeButton[@name='Login']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

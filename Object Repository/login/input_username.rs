@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>input_username</name>
+   <tag></tag>
+   <elementGuidId>412448d5-60af-474b-a72e-fe16773c76e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//XCUIElementTypeTextField[@name='Username']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeTextField[@name='Username']</value>
+      <webElementGuid>881cb47b-ae15-4a25-83be-1f62b0715eaa</webElementGuid>
+   </webElementProperties>
+   <locator>//XCUIElementTypeTextField[@name='Username']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

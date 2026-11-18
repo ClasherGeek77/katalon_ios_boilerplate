@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ios-007-login-success-then-logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>907ba63e-ac63-4bfa-9873-5722702a3002</testCaseGuid>
+</TestCaseEntity>
